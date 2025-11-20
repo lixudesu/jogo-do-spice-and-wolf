@@ -1,4 +1,4 @@
-<img width="2541" height="920" alt="image" src="https://github.com/user-attachments/assets/81fccd22-ee65-4b4d-8628-379c5fac6eed" /># Jogo da Origem do Dinheiro: Spice and Wolf Edition 
+<img width="2541" height="920" alt="image" src="https://github.com/user-attachments/assets/81fccd22-ee65-4b4d-8628-379c5fac6eed" /> Jogo da Origem do Dinheiro: Spice and Wolf 
 
 ## Sobre o Projeto
 
