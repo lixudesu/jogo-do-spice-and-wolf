@@ -1,4 +1,4 @@
-# Jogo da Origem do Dinheiro: Spice and Wolf Edition 
+<img width="2541" height="920" alt="image" src="https://github.com/user-attachments/assets/81fccd22-ee65-4b4d-8628-379c5fac6eed" /># Jogo da Origem do Dinheiro: Spice and Wolf Edition 
 
 ## Sobre o Projeto
 
@@ -10,25 +10,10 @@ Este é um projeto especial que desenvolvi para a **Feira Kids do SENAC**, com o
 * Cédulas e bancos 💵🏦
 * E talvez até conceitos mais modernos!
 
-![Captura de Tela do Jogo 1](<img width="2539" height="925" alt="image" src="https://github.com/user-attachments/assets/d10816f1-3a6b-4676-b0a5-e12c44a2639a" />)
+![Captura de Tela do Jogo 1](<img width="2541" height="920" alt="image" src="https://github.com/user-attachments/assets/ded765f8-9416-4de9-959d-d79210d8ea08" />)
 
-## Site
+Demostração: https://lixudesu.github.io/jogo-do-spice-and-wolf/
 
 
-[▶️ Jogue Agora!](LINK_PARA_SEU_JOGO_ONLINE)
 
-## 🤝 Contribuições
-
-Este projeto foi feito para um evento específico, mas ideias e sugestões são sempre bem-vindas! Se quiser contribuir ou sugerir melhorias, sinta-se à vontade para abrir uma *issue* ou *pull request*.
-
-## 📄 Licença
-
-Este projeto está sob a licença [Nome da sua Licença, ex: MIT License](LICENSE).
-
-## 💖 Agradecimentos
-
-Um agradecimento especial ao **SENAC** pela oportunidade e aos fãs de **Spice and Wolf** pela inspiração!
-
----
-
-**Desenvolvido por:** [Seu Nome/GitHub Username]
+Amo esse anime e como ele tem tudo haver com economia, eu decidi fazer ele assim.
