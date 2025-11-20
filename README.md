@@ -10,8 +10,6 @@ Este é um projeto especial que desenvolvi para a **Feira Kids do SENAC**, com o
 * Cédulas e bancos 💵🏦
 * E talvez até conceitos mais modernos!
 
-![Captura de Tela do Jogo 1](<img width="2541" height="920" alt="image" src="https://github.com/user-attachments/assets/ded765f8-9416-4de9-959d-d79210d8ea08" />)
-
 Demostração: https://lixudesu.github.io/jogo-do-spice-and-wolf/
 
 
